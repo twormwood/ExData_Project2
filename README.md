@@ -4,24 +4,6 @@ Course Project 2 Exploratory Data Analysis
 `Course Project 2` Exploratory Data Analysis
 ================
 
--   👨🏻‍💻 Author: Anderson H Uyekita
--   📚 Specialization: <a
-    href="https://www.coursera.org/specializations/data-science-foundations-r"
-    target="_blank" rel="noopener">Data Science: Foundations using R
-    Specialization</a>
--   📖 Course:
-    <a href="https://www.coursera.org/learn/exploratory-data-analysis"
-    target="_blank" rel="noopener">Exploratory Data Analysis</a>
-    -   🧑‍🏫 Instructor: Roger D Peng
--   📆 Week 4
-    -   🚦 Start: Wednesday, 15 June 2022
-    -   🏁 Finish: Sunday, 19 June 2022
--   📄 README: [README.md](./README.md)
--   🌎 Rpubs: [Interactive
-    Document](https://rpubs.com/AndersonUyekita/course-project-2_exploratory-data-analysis)
-
-------------------------------------------------------------------------
-
 ## Instructions
 
 Fine particulate matter (PM2.5) is an ambient air pollutant for which
