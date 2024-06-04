@@ -13,7 +13,7 @@ index_scc<-grep("Coal", SCC$EI.Sector)
 coal_scc<-slice(SCC, index_scc)
 
 #create df with only the SCC codes for coal
-coal_code<-subset(coal_scc[1:2])
+coal_code<-subset(coal_scc[1])
 
 #filter NEI for coal codes
 nei_coal<-filter(NEI, SCC %in% coal_code$SCC)
